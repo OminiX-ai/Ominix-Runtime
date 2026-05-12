@@ -76,6 +76,8 @@ behind existing prototype services.
 - [Runtime Contract](docs/RUNTIME_CONTRACT.md)
 - [Workstreams](docs/WORKSTREAMS.md)
 
+GitHub repository: `OminiX-ai/Ominix-Runtime`
+
 ## Repo Status
 
 This repository starts as a design and contract repo. It intentionally contains
